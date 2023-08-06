@@ -1,7 +1,7 @@
 {
-  "domain": "daikin_residential",
-  "name": "Daikin Residential Controller",
-  "version": "2.3.1",
+  "domain": "daikin_residential_comfort",
+  "name": "Daikin Residential Controller Comfort-Mode",
+  "version": "2.3.2",
   "documentation": "https://github.com/rospogrigio/daikin_residential/",
   "dependencies": [],
   "codeowners": [
